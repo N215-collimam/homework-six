@@ -12,6 +12,6 @@ Create identical pages at a base and then customize them to be accurate to the r
 
 Link pages together to create a functioning home tours page.
 
-I made these webpages by first creating the tours page first, and then creating the clones of each tour page respectively. Then, I used the formatting for the header and footer from the previous pages I've done to keep the pages formatted correctly. Lastly, I took all the cloned tour pages and updated the pictures to be correct to the refernce.
+I made these webpages by first creating the tours page first, and then creating the clones of each tour page respectively. Then, I used the formatting for the header and footer from the previous pages I've done to keep the pages formatted correctly. After that, I added media queries for all of the tour pages so that they would all remain responsive and adapt to the size of the screen, down to 800px. Lastly, I took all the cloned tour pages and updated the pictures to be correct to the reference.
 
 https://in-info-web4.informatics.iupui.edu/~collimam/homework-six/
