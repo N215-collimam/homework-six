@@ -1,17 +1,17 @@
-# homework-five
-## This is an example of taking the second page of the travel fly website, the about page, and making it responsive as well
+# homework-six
+## This is the creation of the tours pages, and the subsequent pages for each country's tour information. All are made to link to one another and be responsive.
 
 
 Our objectives for this particular webpage were to:
 
 Practice how to make your site responsive
 
-Set up a base that we can use for our future pages to keep them looking connected with the header and footer
+Set up a base that we can use for our future pages to keep them looking connected with the header and footer.
 
-Use media queries
+Create identical pages at a base and then customize them to be accurate to the reference with seperate pictures. 
 
-Use percentages/ max and mins
+Link pages together to create a functioning home tours page.
 
-I made this webpage using the format for the header and footer that I created in the last project. I then removed all of that web page's content and added in the new content that is on the about page. After that, I had to tweak some of the values for widths to fit the webpage correctly, and then I went on to make media queries and percentages to make all of the new page's content be adaptive to the size of the page. Finally, I adjusted all of the font sizes and families to be as close as possible to the original.
+I made these webpages by first creating the tours page first, and then creating the clones of each tour page respectively. Then, I used the formatting for the header and footer from the previous pages I've done to keep the pages formatted correctly. Lastly, I took all the cloned tour pages and updated the pictures to be correct to the refernce.
 
-https://in-info-web4.informatics.iupui.edu/~collimam/homework-five/
+https://in-info-web4.informatics.iupui.edu/~collimam/homework-six/

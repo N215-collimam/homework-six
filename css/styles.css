@@ -202,6 +202,302 @@ nav .links span {
     width: 100%;
   }
 }
+.bannerus {
+  max-width: 981px;
+  height: 413px;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.6))), url(../../images/tour-02.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6)), url(../../images/tour-02.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+  margin-top: 50px;
+  color: white;
+}
+.bannerus .about-hero-text {
+  position: absolute;
+  font-size: 80px;
+  top: 10px;
+  left: 10px;
+  font-family: "proxima";
+}
+.bannerus .price-text {
+  position: absolute;
+  margin-bottom: 0;
+  font-size: 30px;
+  font-family: "proxima";
+  right: 10px;
+  bottom: 10px;
+}
+
+@media all and (max-width: 800px) {
+  .bannerus {
+    display: block;
+    float: none;
+    width: 100%;
+  }
+}
+.bannerau {
+  max-width: 981px;
+  height: 413px;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.6))), url(../../images/tour-03.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6)), url(../../images/tour-03.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+  margin-top: 50px;
+  color: white;
+}
+.bannerau .about-hero-text {
+  position: absolute;
+  font-size: 80px;
+  top: 10px;
+  left: 10px;
+  font-family: "proxima";
+}
+.bannerau .price-text {
+  position: absolute;
+  margin-bottom: 0;
+  font-size: 30px;
+  font-family: "proxima";
+  right: 10px;
+  bottom: 10px;
+}
+
+@media all and (max-width: 800px) {
+  .bannerau {
+    display: block;
+    float: none;
+    width: 100%;
+  }
+}
+.bannernz {
+  max-width: 981px;
+  height: 413px;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.6))), url(../../images/tour-04.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6)), url(../../images/tour-04.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+  margin-top: 50px;
+  color: white;
+}
+.bannernz .about-hero-text {
+  position: absolute;
+  font-size: 80px;
+  top: 10px;
+  left: 10px;
+  font-family: "proxima";
+}
+.bannernz .price-text {
+  position: absolute;
+  margin-bottom: 0;
+  font-size: 30px;
+  font-family: "proxima";
+  right: 10px;
+  bottom: 10px;
+}
+
+@media all and (max-width: 800px) {
+  .bannernz {
+    display: block;
+    float: none;
+    width: 100%;
+  }
+}
+.bannerfr {
+  max-width: 981px;
+  height: 413px;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.6))), url(../../images/tour-05.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6)), url(../../images/tour-05.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+  margin-top: 50px;
+  color: white;
+}
+.bannerfr .about-hero-text {
+  position: absolute;
+  font-size: 80px;
+  top: 10px;
+  left: 10px;
+  font-family: "proxima";
+}
+.bannerfr .price-text {
+  position: absolute;
+  margin-bottom: 0;
+  font-size: 30px;
+  font-family: "proxima";
+  right: 10px;
+  bottom: 10px;
+}
+
+@media all and (max-width: 800px) {
+  .bannerfr {
+    display: block;
+    float: none;
+    width: 100%;
+  }
+}
+.bannereg {
+  max-width: 981px;
+  height: 413px;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.6))), url(../../images/tour-06.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6)), url(../../images/tour-06.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+  margin-top: 50px;
+  color: white;
+}
+.bannereg .about-hero-text {
+  position: absolute;
+  font-size: 80px;
+  top: 10px;
+  left: 10px;
+  font-family: "proxima";
+}
+.bannereg .price-text {
+  position: absolute;
+  margin-bottom: 0;
+  font-size: 30px;
+  font-family: "proxima";
+  right: 10px;
+  bottom: 10px;
+}
+
+@media all and (max-width: 800px) {
+  .bannereg {
+    display: block;
+    float: none;
+    width: 100%;
+  }
+}
+.bannerjp {
+  max-width: 981px;
+  height: 413px;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.6))), url(../../images/tour-07.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6)), url(../../images/tour-07.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+  margin-top: 50px;
+  color: white;
+}
+.bannerjp .about-hero-text {
+  position: absolute;
+  font-size: 80px;
+  top: 10px;
+  left: 10px;
+  font-family: "proxima";
+}
+.bannerjp .price-text {
+  position: absolute;
+  margin-bottom: 0;
+  font-size: 30px;
+  font-family: "proxima";
+  right: 10px;
+  bottom: 10px;
+}
+
+@media all and (max-width: 800px) {
+  .bannerjp {
+    display: block;
+    float: none;
+    width: 100%;
+  }
+}
+.bannerca {
+  max-width: 981px;
+  height: 413px;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.6))), url(../../images/tour-08.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6)), url(../../images/tour-08.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+  margin-top: 50px;
+  color: white;
+}
+.bannerca .about-hero-text {
+  position: absolute;
+  font-size: 80px;
+  top: 10px;
+  left: 10px;
+  font-family: "proxima";
+}
+.bannerca .price-text {
+  position: absolute;
+  margin-bottom: 0;
+  font-size: 30px;
+  font-family: "proxima";
+  right: 10px;
+  bottom: 10px;
+}
+
+@media all and (max-width: 800px) {
+  .bannerca {
+    display: block;
+    float: none;
+    width: 100%;
+  }
+}
+.bannerue {
+  max-width: 981px;
+  height: 413px;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.6))), url(../../images/tour-09.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6)), url(../../images/tour-09.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+  margin-top: 50px;
+  color: white;
+}
+.bannerue .about-hero-text {
+  position: absolute;
+  font-size: 80px;
+  top: 10px;
+  left: 10px;
+  font-family: "proxima";
+}
+.bannerue .price-text {
+  position: absolute;
+  margin-bottom: 0;
+  font-size: 30px;
+  font-family: "proxima";
+  right: 10px;
+  bottom: 10px;
+}
+
+@media all and (max-width: 800px) {
+  .bannerue {
+    display: block;
+    float: none;
+    width: 100%;
+  }
+}
 .foot {
   max-width: 1280px;
   min-height: 100px;
@@ -366,6 +662,222 @@ nav .links span {
   background-repeat: no-repeat;
   background-size: cover;
 }
+.three .picsus1 {
+  width: 298px;
+  height: 347px;
+  background-image: url(../../images/usa-tour-01.jpg);
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.three .picsus2 {
+  width: 298px;
+  height: 347px;
+  background-image: url(../../images/usa-tour-02.jpg);
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.three .picsus3 {
+  width: 298px;
+  height: 347px;
+  background-image: url(../../images/usa-tour-03.jpg);
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.three .picsau1 {
+  width: 298px;
+  height: 347px;
+  background-image: url(../../images/aus-tour-01.jpg);
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.three .picsau2 {
+  width: 298px;
+  height: 347px;
+  background-image: url(../../images/aus-tour-02.jpg);
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.three .picsau3 {
+  width: 298px;
+  height: 347px;
+  background-image: url(../../images/aus-tour-03.jpg);
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.three .picsnz1 {
+  width: 298px;
+  height: 347px;
+  background-image: url(../../images/nz-tour-01.jpg);
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.three .picsnz2 {
+  width: 298px;
+  height: 347px;
+  background-image: url(../../images/nz-tour-02.jpg);
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.three .picsnz3 {
+  width: 298px;
+  height: 347px;
+  background-image: url(../../images/nz-tour-03.jpg);
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.three .picsfr1 {
+  width: 298px;
+  height: 347px;
+  background-image: url(../../images/france-tour-01.jpg);
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.three .picsfr2 {
+  width: 298px;
+  height: 347px;
+  background-image: url(../../images/france-tour-02.jpg);
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.three .picsfr3 {
+  width: 298px;
+  height: 347px;
+  background-image: url(../../images/france-tour-03.jpg);
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.three .picseg1 {
+  width: 298px;
+  height: 347px;
+  background-image: url(../../images/egypt-tour-01.jpg);
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.three .picseg2 {
+  width: 298px;
+  height: 347px;
+  background-image: url(../../images/egypt-tour-02.jpg);
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.three .picseg3 {
+  width: 298px;
+  height: 347px;
+  background-image: url(../../images/egypt-tour-03.jpg);
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.three .picsjp1 {
+  width: 298px;
+  height: 347px;
+  background-image: url(../../images/japan-tour-01.jpg);
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.three .picsjp2 {
+  width: 298px;
+  height: 347px;
+  background-image: url(../../images/japan-tour-02.jpg);
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.three .picsjp3 {
+  width: 298px;
+  height: 347px;
+  background-image: url(../../images/japan-tour-03.jpg);
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.three .picsca1 {
+  width: 298px;
+  height: 347px;
+  background-image: url(../../images/canada-tour-01.jpg);
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.three .picsca2 {
+  width: 298px;
+  height: 347px;
+  background-image: url(../../images/canada-tour-02.jpg);
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.three .picsca3 {
+  width: 298px;
+  height: 347px;
+  background-image: url(../../images/canada-tour-03.jpg);
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.three .picsue1 {
+  width: 298px;
+  height: 347px;
+  background-image: url(../../images/uae-tour-01.jpg);
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.three .picsue2 {
+  width: 298px;
+  height: 347px;
+  background-image: url(../../images/uae-tour-02.jpg);
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.three .picsue3 {
+  width: 298px;
+  height: 347px;
+  background-image: url(../../images/uae-tour-03.jpg);
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 .three .pictext {
   color: white;
   position: absolute;
@@ -455,6 +967,78 @@ nav .links span {
     margin-top: 10px;
   }
   .three .picsi3 {
+    margin-top: 10px;
+  }
+  .three .picsus1 {
+    margin-top: 10px;
+  }
+  .three .picsus2 {
+    margin-top: 10px;
+  }
+  .three .picsus3 {
+    margin-top: 10px;
+  }
+  .three .picsau1 {
+    margin-top: 10px;
+  }
+  .three .picsau2 {
+    margin-top: 10px;
+  }
+  .three .picsau3 {
+    margin-top: 10px;
+  }
+  .three .picsnz1 {
+    margin-top: 10px;
+  }
+  .three .picsnz2 {
+    margin-top: 10px;
+  }
+  .three .picsnz3 {
+    margin-top: 10px;
+  }
+  .three .picsfr1 {
+    margin-top: 10px;
+  }
+  .three .picsfr2 {
+    margin-top: 10px;
+  }
+  .three .picsfr3 {
+    margin-top: 10px;
+  }
+  .three .picseg1 {
+    margin-top: 10px;
+  }
+  .three .picseg2 {
+    margin-top: 10px;
+  }
+  .three .picseg3 {
+    margin-top: 10px;
+  }
+  .three .picsjp1 {
+    margin-top: 10px;
+  }
+  .three .picsjp2 {
+    margin-top: 10px;
+  }
+  .three .picsjp3 {
+    margin-top: 10px;
+  }
+  .three .picsca1 {
+    margin-top: 10px;
+  }
+  .three .picsca2 {
+    margin-top: 10px;
+  }
+  .three .picsca3 {
+    margin-top: 10px;
+  }
+  .three .picsue1 {
+    margin-top: 10px;
+  }
+  .three .picsue2 {
+    margin-top: 10px;
+  }
+  .three .picsue3 {
     margin-top: 10px;
   }
 }
