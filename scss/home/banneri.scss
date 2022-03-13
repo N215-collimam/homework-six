@@ -1,0 +1,27 @@
+.banneri{
+    max-width: 981px;
+    height: 413px;
+    background-image: linear-gradient(rgba($site-black, .6)), url(../../images/tour-01.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    margin-top: 50px;
+    
+
+    //if this doesnt save, save in variables then run
+}
+
+
+
+@media all and (max-width:800px) 
+{
+    .banneri
+    {
+        display: block; 
+        float: none; 
+        width: 100%;
+    }
+}

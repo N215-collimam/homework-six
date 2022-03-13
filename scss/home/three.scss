@@ -96,6 +96,36 @@
         background-size: cover;
     }
 
+    .picsi1{
+        width:298px;
+        height: 347px;
+        background-image: url(../../images/israel-tour-01.jpg);
+        position: relative;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .picsi2{
+        width:298px;
+        height: 347px;
+        background-image: url(../../images/israel-tour-02.jpg);
+        position: relative;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .picsi3{
+        width:298px;
+        height: 347px;
+        background-image: url(../../images/israel-tour-03.jpg);
+        position: relative;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
     .pictext{
         color: $site-white;
         position: absolute;
@@ -187,6 +217,18 @@
         }
 
         .pics9{
+            margin-top: 10px;
+        }
+
+        .picsi1{
+            margin-top: 10px;
+        }
+
+        .picsi2{
+            margin-top: 10px;
+        }
+
+        .picsi3{
             margin-top: 10px;
         }
     }
